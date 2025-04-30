@@ -1,0 +1,80 @@
+
+ img,p,h1,h2,.divider {
+    width: 100%;
+    max-width: 809px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ img {
+	display: block;
+    padding:15px 0px;
+}
+
+p {
+	font-size: 18px;
+	line-height: 1.4;
+    font-family: "Crimson Text";
+}
+
+h1 {
+    color: maroon;
+	font-size: 28px;
+	line-height: 1.4;
+    font-family: "Crimson Text";
+    text-align: center;
+}
+h2 {
+	line-height: 1.4;
+    font-family: "Crimson Text";
+}
+.quote {
+    font-family: "Crimson Text"; 
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+}
+a {
+    color: red;
+  }
+.divider {
+        height: 10px;
+        background-image: url('images/chain.jpg'); 
+        background-repeat: repeat-x; 
+        background-size: auto 100%; 
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+.name {
+    font-size: 20px;
+	line-height: 3;
+    font-family: "Crimson Text";
+    text-align: center;
+        }
+.big_img {
+    width: 100%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.plot {
+    width: 100%;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.small_img {
+    width: 100%;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+
+}
+.note {
+    font-size: 14px;
+
+}
+
